@@ -9,6 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/123292825?v=4" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Dashboard</title>
 </head>
